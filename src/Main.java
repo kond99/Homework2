@@ -4,52 +4,52 @@ public class Main {
         // Задача 1
         System.out.println();
         System.out.println("Задача 1");
-        var dog = 8.0;
-        var cat = 3.6;
+        var dogs = 8.0;
+        var cats = 3.6;
         var paper = 763789;
 
-        System.out.println("dog = " + dog);
-        System.out.println("cat = " + cat);
+        System.out.println("dogs = " + dogs);
+        System.out.println("cats = " + cats);
         System.out.println("paper = " + paper);
 
         // Задача 2
         System.out.println();
         System.out.println("Задача 2");
-        dog = dog + 4;
-        cat = cat + 4;
+        dogs = dogs + 4;
+        cats = cats + 4;
         paper = paper + 4;
 
-        System.out.println("dog = " + dog);
-        System.out.println("cat = " + cat);
+        System.out.println("dogs = " + dogs);
+        System.out.println("cats = " + cats);
         System.out.println("paper = " + paper);
 
         // Задача 3
         System.out.println();
         System.out.println("Задача 3");
-        dog = dog - 3.5;
-        cat = cat - 1.6;
+        dogs = dogs - 3.5;
+        cats = cats - 1.6;
         paper = paper - 7639;
 
-        System.out.println("dog = " + dog);
-        System.out.println("cat = " + cat);
-        System.out.println("paper = " + paper);
+        System.out.println("dogs = " + dogs);
+        System.out.println("cats = " + cats);
+        System.out.println("papers = " + paper);
 
         // Задача 4
         System.out.println();
         System.out.println("Задача 4");
-        var friend = 19;
-        System.out.println("friend = " + friend);
-        friend = friend + 2;
-        System.out.println("friend = " + friend);
-        friend = friend / 7;
-        System.out.println("friend = " + friend);
+        var friends = 19;
+        System.out.println("friends = " + friends);
+        friends = friends + 2;
+        System.out.println("friends = " + friends);
+        friends = friends / 7;
+        System.out.println("friends = " + friends);
 
         // Задача 5
         System.out.println();
         System.out.println("Задача 5");
-        var frog = 3.5;
+        var frogs = 3.5;
         System.out.println("frog = " + frog);
-        frog = frog * 10;
+        frog = frogs * 10;
         System.out.println("frog = " + frog);
         frog = frog / 3.5;
         System.out.println("frog = " + frog);
